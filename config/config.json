@@ -1,0 +1,18 @@
+{
+    "CONTRACT_ADDRESS": "0x0751C607D7ebAb56c0E37b50DbfEd19221e4bD08",
+    "SCAN_LINK": "https://testnet.bscscan.com/token/0x0751C607D7ebAb56c0E37b50DbfEd19221e4bD08",
+    "NETWORK": {
+        "NAME": "BNBChain",
+        "SYMBOL": "BNB",
+        "ID": 97
+    },
+    "NFT_NAME": "Siberian Husky",
+    "SYMBOL": "SIBI",
+    "MAX_SUPPLY": 5000,
+    "WEI_COST": 100000000000000000,
+    "DISPLAY_COST": 0.10,
+    "GAS_LIMIT": 120000,
+    "MARKETPLACE": "Binance Marketplace",
+    "MARKETPLACE_LINK": "https://binancenft.com/SiberianHusky",
+    "SHOW_BACKGROUND": true
+}
